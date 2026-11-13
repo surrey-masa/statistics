@@ -1,26 +1,6 @@
 book:
   chapters:
-    - part: "Getting started with R & RStudio (MASA workshop)"
+    - part: "Statistics"
       chapters:
-        - text: "Overview"
-          href: pages/GSW_R_1_Overview.qmd
-        - text: "ALL FOR NOW"
-          href: pages/GSW_R_2.qmd
-    - part: "Intermediate R (MASA workshop)"
-      chapters:
-        - text: "Overview"
-          href: pages/Intermediate_R_1_Overview.qmd
-        - text: "Setup, data and workshop aims"
-          href: pages/Intermediate_R_2_Setup_data_and_workshop_aims.qmd
-        - text: "Getting to know your data"
-          href: pages/Intermediate_R_3_Getting_to_know_your_data.qmd
-        - text: "Data wrangling with dplyr"
-          href: pages/Intermediate_R_4_Data_wrangling_with_dplyr.qmd
-        - text: "Plotting with ggplot2"
-          href: pages/Intermediate_R_5_Plotting_with_ggplot2.qmd
-        - text: "Introduction to linear regression"
-          href: pages/Intermediate_R_6_Introduction_to_linear_regression.qmd
-    - part: "Additional materials"
-      chapters:
-        - text: "R glossary"
-          href: pages/Glossary.qmd
+        - text: "The normal distribution and assessing the normality assumption
+          href: Normality.qmd

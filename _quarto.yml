@@ -21,9 +21,7 @@ book:
   navbar:
     pinned: true
     logo: images/LLS_SUBBRAND_LOGOS_PNG_Maths_Left_White@600x.png
-    title: "R & RStudio"
-    right:
-      - text: "![](images/stag_logo.png){fig-alt='University of Surrey logo'}"
+    title: "Statistics"
   page-footer:
     center: |
       Licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)

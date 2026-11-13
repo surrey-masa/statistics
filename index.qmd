@@ -1,21 +1,6 @@
 ---
-title: "About these materials"
+title: "Contents"
 number-sections: false
 ---
 
-These materials contain............
-
-## Chapters in this book
-
-- [Getting started with R & RStudio (MASA workshop)](pages/GSW_R_1_Overview.qmd)
-- [Intermediate R & RStudio (MASA workshop)](pages/Intermediate_R_1_Overview.qmd)
-- [Glossary](pages/Glossary.qmd)
-
-::: callout-tip
-### Example section
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-:::
+- [The normal distribution and assessing the normality assumption](pages/Normality.qmd)
