@@ -3,4 +3,4 @@ book:
     - part: "Statistics"
       chapters:
         - text: "The normal distribution and assessing the normality assumption"
-          href: pages/Normality.qmd
+          href: pages/normality.qmd

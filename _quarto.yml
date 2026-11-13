@@ -16,7 +16,7 @@ metadata:
   show-setup: false
 
 book:
-  title: "R & RStudio"
+  title: "MASA statistics guides"
   page-navigation: true
   navbar:
     pinned: true

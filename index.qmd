@@ -3,4 +3,4 @@ title: "Contents"
 number-sections: false
 ---
 
-- [The normal distribution and assessing the normality assumption](pages/Normality.qmd)
+- [The normal distribution and assessing the normality assumption](pages/normality.qmd)
