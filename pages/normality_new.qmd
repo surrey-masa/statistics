@@ -38,7 +38,7 @@ y <- dnorm(x, mean = 170, sd = 10)
 
 ## The normal distribution
 
-The normal (or Gaussian) distribution is a continuous probability distribution with a symmetric, bell-shaped curve (@fig-norm-dist). 
+The normal distribution (otherwise known as the Gaussian distribution) is a continuous probability distribution with a symmetric, bell-shaped curve (@fig-norm-dist). 
 
 ```{r}
 #| echo: false
