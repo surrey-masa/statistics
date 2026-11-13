@@ -1,6 +1,6 @@
 book:
   chapters:
-    - part: "Statistics"
+    - part: "Statistics guides"
       chapters:
         - text: "The normal distribution and assessing the normality assumption"
           href: pages/normality.qmd
